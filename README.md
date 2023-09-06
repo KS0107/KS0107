@@ -2,7 +2,7 @@
 # Hi! I'm Kush
 
 
-![Image](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 I'm a penultimate year computer science student with a data science and analytics background, with a significant interest in ML Engineering, Software Engineering, and Data Science. I have a range of experience, from data analysis to software engineering + ML through internships and personal projects. Please check out my work and reach out for collaboration!
 
