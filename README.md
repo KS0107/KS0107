@@ -10,11 +10,11 @@ I'm a penultimate year computer science student with a data science and analytic
 
 
 ## 🚀 About Me
-My background lies primarly within the realm of Software Engineering and Machine Learning, but I also really working with frontend frameworks such as React. I have experience with full stack development using Django, Java, Spring, PHP, and various other frameworks/tools. I am also very passionate about finance and quantitative trading, and research and stay up-to-date with it in my free time.
+My background lies primarly within the realm of Software Engineering and Machine Learning, but I also really enjoy working with frontend frameworks such as React. I have experience with full stack development using Django, Java, Spring, PHP, and various other frameworks/tools. I am also very passionate about finance and quantitative trading + research, and stay up-to-date with it in my free time. 
 
 
 ## 🛠 Skills
-Java, Python, Jupyter Notebooks, JavaScript, HTML, CSS, PHP, MySQL, TypeScript, C, Pandas, PyTorch, Django, SQL, Java Spring, Code Review
+Java, Python, Jupyter Notebooks, JavaScript, HTML, CSS, PHP, MySQL, TypeScript, C, Pandas, PyTorch, Django, SQL, Java Spring
 
 
 ## 🔗 Links
