@@ -1,7 +1,7 @@
 
 
 ## 🛠 Skills
-Java, Python, Jupyter Notebooks, JavaScript, HTML, CSS, PHP, MySQL, TypeScript, C, Pandas, PyTorch, Django, SQL, Java Spring
+Python, Java, C/C++, HTML, CSS, JavaScript, SQL, Pandas, Git, CI/CD, PyTorch, TensorFlow, REST APIs, Webhooks, Django, React.js.
 
 
 ## 🔗 Links
