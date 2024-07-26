@@ -1,4 +1,4 @@
-Some projects are private to prevent redistribution, and to make it easier to navigate my best projects. Please contact me if you'd like access to some machine learning and natural language processing projects on my resume.
+Some projects are private to prevent redistribution, and to make it easier to navigate my best projects. Please contact me if you'd like access to further machine learning and natural language processing projects on my resume.
 
 ## 🛠 Skills
 Python, Java, C/C++, HTML, CSS, JavaScript, SQL, Pandas, Git, CI/CD, PyTorch, TensorFlow, REST APIs, Webhooks, Django, React.js.
