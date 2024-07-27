@@ -1,4 +1,4 @@
-I'm a final year computer science student at The University of Manchester with an interest in software engineering and FinTech, and have a major interest in high performance computing, distributed systems, and low latency programming. I have experience in software development in financial and software firms, and am constantly looking to learn more through hands-on projects. 
+I'm a final year computer science student at The University of Manchester focusing on software engineering, and am interested in high performance computing, distributed systems, and low latency programming. I have experience in software development in financial and software firms, and am constantly looking to learn more through hands-on projects. 
 
 Some projects are private to prevent redistribution, and to make it easier to navigate my best projects. Please contact me if you'd like access to further machine learning and natural language processing projects on my resume.
 
