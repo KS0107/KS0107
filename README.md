@@ -9,5 +9,5 @@ Python, C, C++, Java,  HTML, CSS, JavaScript, SQL, Pandas, Git, CI/CD, PyTorch, 
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagrasrivastava0107/)
-[![leetcode]([https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png))](https://leetcode.com/u/ksrivastava0107/)
+[![leetcode](https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png)](https://leetcode.com/u/ksrivastava0107/)
 
