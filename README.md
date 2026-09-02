@@ -1,4 +1,4 @@
-I'm a software engineer interested in high performance computing, distributed systems, and low latency programming. I have experience in software development in financial and software firms, and am constantly looking to learn more through hands-on projects. 
+I'm a software engineer interested in distributed systems and large scape data processing. I have experience in software development in financial and software firms, and I am constantly looking to learn more through hands-on projects. 
 
 Some projects are private to prevent redistribution, and to make it easier to navigate my best projects.
 
